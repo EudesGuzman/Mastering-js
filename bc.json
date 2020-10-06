@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e7da6a4b-8d6d-4c20-99d4-f5b2a7eaf2bd.ws-us02.gitpod.io",
+    "address": "https://c1bc0aa4-94d9-4dcc-93bc-ea8d5ac2277d.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -38,7 +38,7 @@
         {
             "slug": "01-isOldEnoughToDrink",
             "title": "01-isOldEnoughToDrink",
-            "done": false,
+            "done": true,
             "path": "exercises/01-isOldEnoughToDrink",
             "translations": [
                 "us"
@@ -48,7 +48,7 @@
         {
             "slug": "02-isOldEnoughToDrive",
             "title": "02-isOldEnoughToDrive",
-            "done": false,
+            "done": true,
             "path": "exercises/02-isOldEnoughToDrive",
             "translations": [
                 "us"
@@ -58,7 +58,7 @@
         {
             "slug": "03-isOldEnoughToVote",
             "title": "03-isOldEnoughToVote",
-            "done": false,
+            "done": true,
             "path": "exercises/03-isOldEnoughToVote",
             "translations": [
                 "us"
@@ -68,7 +68,7 @@
         {
             "slug": "04-isOldEnoughToDrinkAndDrive",
             "title": "04-isOldEnoughToDrinkAndDrive",
-            "done": false,
+            "done": true,
             "path": "exercises/04-isOldEnoughToDrinkAndDrive",
             "translations": [
                 "us"
@@ -78,7 +78,7 @@
         {
             "slug": "05-getProperty",
             "title": "05-getProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/05-getProperty",
             "translations": [
                 "us"
@@ -88,7 +88,7 @@
         {
             "slug": "06-addProperty",
             "title": "06-addProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/06-addProperty",
             "translations": [
                 "us"
@@ -98,7 +98,7 @@
         {
             "slug": "07-removeProperty",
             "title": "07-removeProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/07-removeProperty",
             "translations": [
                 "us"
@@ -108,7 +108,7 @@
         {
             "slug": "08-checkAge",
             "title": "08-checkAge",
-            "done": false,
+            "done": true,
             "path": "exercises/08-checkAge",
             "translations": [
                 "us"
@@ -118,7 +118,7 @@
         {
             "slug": "09-getFullName",
             "title": "09-getFullName",
-            "done": false,
+            "done": true,
             "path": "exercises/09-getFullName",
             "translations": [
                 "us"
@@ -128,7 +128,7 @@
         {
             "slug": "10-getLengthOfWord",
             "title": "10-getLengthOfWord",
-            "done": false,
+            "done": true,
             "path": "exercises/10-getLengthOfWord",
             "translations": [
                 "us"
@@ -138,7 +138,7 @@
         {
             "slug": "11-getLengthOfTwoWords",
             "title": "11-getLengthOfTwoWords",
-            "done": false,
+            "done": true,
             "path": "exercises/11-getLengthOfTwoWords",
             "translations": [
                 "us"
@@ -148,7 +148,7 @@
         {
             "slug": "12-isGreaterThanTen",
             "title": "12-isGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/12-isGreaterThanTen",
             "translations": [
                 "us"
@@ -158,7 +158,7 @@
         {
             "slug": "13-isLessThanThirty",
             "title": "13-isLessThanThirty",
-            "done": false,
+            "done": true,
             "path": "exercises/13-isLessThanThirty",
             "translations": [
                 "us"
@@ -168,7 +168,7 @@
         {
             "slug": "14-equalsTen",
             "title": "14-equalsTen",
-            "done": false,
+            "done": true,
             "path": "exercises/14-equalsTen",
             "translations": [
                 "us"
@@ -178,7 +178,7 @@
         {
             "slug": "15-isLessThan",
             "title": "15-isLessThan",
-            "done": false,
+            "done": true,
             "path": "exercises/15-isLessThan",
             "translations": [
                 "us"
@@ -188,7 +188,7 @@
         {
             "slug": "16-isGreaterThan",
             "title": "16-isGreaterThan",
-            "done": false,
+            "done": true,
             "path": "exercises/16-isGreaterThan",
             "translations": [
                 "us"
@@ -198,7 +198,7 @@
         {
             "slug": "17-isEqualTo",
             "title": "17-isEqualTo",
-            "done": false,
+            "done": true,
             "path": "exercises/17-isEqualTo",
             "translations": [
                 "us"
@@ -208,7 +208,7 @@
         {
             "slug": "18-isEven",
             "title": "18-isEven",
-            "done": false,
+            "done": true,
             "path": "exercises/18-isEven",
             "translations": [
                 "us"
@@ -218,7 +218,7 @@
         {
             "slug": "19-isOdd",
             "title": "19-isOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/19-isOdd",
             "translations": [
                 "us"
@@ -228,7 +228,7 @@
         {
             "slug": "20-isSameLength",
             "title": "20-isSameLength",
-            "done": false,
+            "done": true,
             "path": "exercises/20-isSameLength",
             "translations": [
                 "us"
@@ -238,7 +238,7 @@
         {
             "slug": "21-areBothOdd",
             "title": "21-areBothOdd",
-            "done": false,
+            "done": true,
             "path": "exercises/21-areBothOdd",
             "translations": [
                 "us"
@@ -248,7 +248,7 @@
         {
             "slug": "22-isEitherEven",
             "title": "22-isEitherEven",
-            "done": false,
+            "done": true,
             "path": "exercises/22-isEitherEven",
             "translations": [
                 "us"
@@ -258,7 +258,7 @@
         {
             "slug": "23-isOddLength",
             "title": "23-isOddLength",
-            "done": false,
+            "done": true,
             "path": "exercises/23-isOddLength",
             "translations": [
                 "us"
@@ -268,7 +268,7 @@
         {
             "slug": "24-isEvenLength",
             "title": "24-isEvenLength",
-            "done": false,
+            "done": true,
             "path": "exercises/24-isEvenLength",
             "translations": [
                 "us"
@@ -278,7 +278,7 @@
         {
             "slug": "25-isEvenAndGreaterThanTen",
             "title": "25-isEvenAndGreaterThanTen",
-            "done": false,
+            "done": true,
             "path": "exercises/25-isEvenAndGreaterThanTen",
             "translations": [
                 "us"
@@ -288,7 +288,7 @@
         {
             "slug": "26-average",
             "title": "26-average",
-            "done": false,
+            "done": true,
             "path": "exercises/26-average",
             "translations": [
                 "us"
@@ -298,7 +298,7 @@
         {
             "slug": "27-computeAreaOfATriangle",
             "title": "27-computeAreaOfATriangle",
-            "done": false,
+            "done": true,
             "path": "exercises/27-computeAreaOfATriangle",
             "translations": [
                 "us"
@@ -308,7 +308,7 @@
         {
             "slug": "28-cube",
             "title": "28-cube",
-            "done": false,
+            "done": true,
             "path": "exercises/28-cube",
             "translations": [
                 "us"
@@ -318,7 +318,7 @@
         {
             "slug": "29-square",
             "title": "29-square",
-            "done": false,
+            "done": true,
             "path": "exercises/29-square",
             "translations": [
                 "us"
@@ -328,7 +328,7 @@
         {
             "slug": "30-computeAverageLengthOfWords",
             "title": "30-computeAverageLengthOfWords",
-            "done": false,
+            "done": true,
             "path": "exercises/30-computeAverageLengthOfWords",
             "translations": [
                 "us"
@@ -338,7 +338,7 @@
         {
             "slug": "80-getAverageOfElementsAtProperty",
             "title": "80-getAverageOfElementsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/80-getAverageOfElementsAtProperty",
             "translations": [
                 "us"
@@ -348,7 +348,7 @@
         {
             "slug": "81-addToFrontOfNew",
             "title": "81-addToFrontOfNew",
-            "done": false,
+            "done": true,
             "path": "exercises/81-addToFrontOfNew",
             "translations": [
                 "us"
@@ -358,7 +358,7 @@
         {
             "slug": "82-addToBackOfNew",
             "title": "82-addToBackOfNew",
-            "done": false,
+            "done": true,
             "path": "exercises/82-addToBackOfNew",
             "translations": [
                 "us"
@@ -368,7 +368,7 @@
         {
             "slug": "83-getAllElementsButNth",
             "title": "83-getAllElementsButNth",
-            "done": false,
+            "done": true,
             "path": "exercises/83-getAllElementsButNth",
             "translations": [
                 "us"
@@ -378,7 +378,7 @@
         {
             "slug": "84-areValidCredentials",
             "title": "84-areValidCredentials",
-            "done": false,
+            "done": true,
             "path": "exercises/84-areValidCredentials",
             "translations": [
                 "us"
@@ -388,7 +388,7 @@
         {
             "slug": "85-getIndexOf",
             "title": "85-getIndexOf",
-            "done": false,
+            "done": true,
             "path": "exercises/85-getIndexOf",
             "translations": [
                 "us"
@@ -398,15 +398,17 @@
         {
             "slug": "86-findMinLengthOfThreeWords",
             "title": "86-findMinLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/86-findMinLengthOfThreeWords",
-            "translations": [],
-            "graded": false
+            "translations": [
+                "us"
+            ],
+            "graded": true
         },
         {
             "slug": "87-findMaxLengthOfThreeWords",
             "title": "87-findMaxLengthOfThreeWords",
-            "done": false,
+            "done": true,
             "path": "exercises/87-findMaxLengthOfThreeWords",
             "translations": [
                 "us"
@@ -416,7 +418,7 @@
         {
             "slug": "88-Select",
             "title": "88-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/88-Select",
             "translations": [
                 "us"
@@ -426,7 +428,7 @@
         {
             "slug": "89-getElements",
             "title": "89-getElements",
-            "done": false,
+            "done": true,
             "path": "exercises/89-getElements",
             "translations": [
                 "us"
@@ -436,7 +438,7 @@
         {
             "slug": "90-getElementsLessThanOneHundredAtProperty",
             "title": "90-getElementsLessThanOneHundredAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/90-getElementsLessThanOneHundredAtProperty",
             "translations": [
                 "us"
@@ -446,7 +448,7 @@
         {
             "slug": "91-countAllCharacters",
             "title": "91-countAllCharacters",
-            "done": false,
+            "done": true,
             "path": "exercises/91-countAllCharacters",
             "translations": [
                 "us"
@@ -456,7 +458,7 @@
         {
             "slug": "92-getElementsGreaterThanTenAtProperty",
             "title": "92-getElementsGreaterThanTenAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/92-getElementsGreaterThanTenAtProperty",
             "translations": [
                 "us"
@@ -466,7 +468,7 @@
         {
             "slug": "93-removeElement",
             "title": "93-removeElement",
-            "done": false,
+            "done": true,
             "path": "exercises/93-removeElement",
             "translations": [
                 "us"
@@ -476,7 +478,7 @@
         {
             "slug": "94-getFirstElementOfProperty",
             "title": "94-getFirstElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/94-getFirstElementOfProperty",
             "translations": [
                 "us"
@@ -486,7 +488,7 @@
         {
             "slug": "95-getNthElementOfProperty",
             "title": "95-getNthElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/95-getNthElementOfProperty",
             "translations": [
                 "us"
@@ -496,7 +498,7 @@
         {
             "slug": "96-getLastElementOfProperty",
             "title": "96-getLastElementOfProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/96-getLastElementOfProperty",
             "translations": [
                 "us"
@@ -506,7 +508,7 @@
         {
             "slug": "97-keep",
             "title": "97-keep",
-            "done": false,
+            "done": true,
             "path": "exercises/97-keep",
             "translations": [
                 "us"
@@ -516,7 +518,7 @@
         {
             "slug": "98-getOddLengthWordsAtProperty",
             "title": "98-getOddLengthWordsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/98-getOddLengthWordsAtProperty",
             "translations": [
                 "us"
@@ -526,7 +528,7 @@
         {
             "slug": "99-computeAverageOfNumbers",
             "title": "99-computeAverageOfNumbers",
-            "done": false,
+            "done": true,
             "path": "exercises/99-computeAverageOfNumbers",
             "translations": [
                 "us"
